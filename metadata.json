@@ -1,0 +1,8 @@
+{
+  "name": "EduGestão Pro",
+  "description": "Uma plataforma completa de gestão escolar para administradores, incluindo painéis de controle, diretórios de alunos e professores, e gestão de currículo com suporte a IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
